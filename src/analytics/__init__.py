@@ -1,0 +1,1 @@
+# src/trends/__init__.py
